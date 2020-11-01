@@ -20,7 +20,7 @@
       "direction": "out",
       "type": "cosmosDB",
       "databaseName": "handson",
-      "collectionName": "messages",
+      "collectionName": "follow_users",
       "connectionStringSetting": "seccamp2020b3_DOCUMENTDB"
   }
   ]
